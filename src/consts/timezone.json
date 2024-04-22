@@ -1,0 +1,177 @@
+{
+    "-12:00": {
+      "name": "[UTC -12:00] International Date Line West",
+      "utc_offset": "-12:00",
+      "timezone_key": "Etc/GMT+12"
+    },
+    "-11:00": {
+      "name": "[UTC -11:00] Midway Island",
+      "utc_offset": "-11:00",
+      "timezone_key": "Pacific/Midway"
+    },
+    "-10:00": {
+      "name": "[UTC -10:00] Hawaii",
+      "utc_offset": "-10:00",
+      "timezone_key": "Pacific/Honolulu"
+    },
+    "-09:00": {
+      "name": "[UTC -09:00] Alaska",
+      "utc_offset": "-09:00",
+      "timezone_key": "US/Alaska"
+    },
+    "-08:00": {
+      "name": "[UTC -08:00] Tijuana",
+      "utc_offset": "-08:00",
+      "timezone_key": "America/Ensenada"
+    },
+    "-07:00": {
+      "name": "[UTC -07:00] Mountain Time (US & Canada)",
+      "utc_offset": "-07:00",
+      "timezone_key": "America/Ojinaga"
+    },
+    "-06:00": {
+      "name": "[UTC -06:00] Saskatchewan",
+      "utc_offset": "-06:00",
+      "timezone_key": "Canada/Saskatchewan"
+    },
+    "-05:00": {
+      "name": "[UTC -05:00] Quito",
+      "utc_offset": "-05:00",
+      "timezone_key": "America/Guayaquil"
+    },
+    "-04:00": {
+      "name": "[UTC -04:00] Puerto Rico",
+      "utc_offset": "-04:00",
+      "timezone_key": "America/Puerto_Rico"
+    },
+    "-03:30": {
+      "name": "[UTC -03:30] Newfoundland",
+      "utc_offset": "-03:30",
+      "timezone_key": "Canada/Newfoundland"
+    },
+    "-03:00": {
+      "name": "[UTC -03:00] Montevideo",
+      "utc_offset": "-03:00",
+      "timezone_key": "America/Montevideo"
+    },
+    "-02:00": {
+      "name": "[UTC -02:00] Mid-Atlantic",
+      "utc_offset": "-02:00",
+      "timezone_key": "Atlantic/South_Georgia"
+    },
+    "-01:00": {
+      "name": "[UTC -01:00] Cape Verde Is.",
+      "utc_offset": "-01:00",
+      "timezone_key": "Atlantic/Cape_Verde"
+    },
+    "+00:00": {
+      "name": "[UTC 00:00] UTC",
+      "utc_offset": "00:00",
+      "timezone_key": "Etc/GMT+0"
+    },
+    "+01:00": {
+      "name": "[UTC +01:00] Zurich",
+      "utc_offset": "+01:00",
+      "timezone_key": "Europe/Zurich"
+    },
+    "+02:00": {
+      "name": "[UTC +02:00] Vilnius",
+      "utc_offset": "+02:00",
+      "timezone_key": "Europe/Vilnius"
+    },
+    "+03:00": {
+      "name": "[UTC +03:00] Volgograd",
+      "utc_offset": "+03:00",
+      "timezone_key": "Europe/Volgograd"
+    },
+    "+03:30": {
+      "name": "[UTC +03:30] Tehran",
+      "utc_offset": "+03:30",
+      "timezone_key": "Asia/Tehran"
+    },
+    "+04:00": {
+      "name": "[UTC +04:00] Yerevan",
+      "utc_offset": "+04:00",
+      "timezone_key": "Asia/Yerevan"
+    },
+    "+04:30": {
+      "name": "[UTC +04:30] Kabul",
+      "utc_offset": "+04:30",
+      "timezone_key": "Asia/Kabul"
+    },
+    "+05:00": {
+      "name": "[UTC +05:30] Kolkata",
+      "utc_offset": "+05:00",
+      "timezone_key": "Asia/Kolkata"
+    },
+    "+05:30": {
+      "name": "[UTC +05:30] Sri Jayawardenepura",
+      "utc_offset": "+05:30",
+      "timezone_key": "Asia/Colombo"
+    },
+    "+05:45": {
+      "name": "[UTC +05:45] Kathmandu",
+      "utc_offset": "+05:45",
+      "timezone_key": "Asia/Kathmandu"
+    },
+    "+06:00": {
+      "name": "[UTC +06:00] Urumqi",
+      "utc_offset": "+06:00",
+      "timezone_key": "Asia/Urumqi"
+    },
+    "+06:30": {
+      "name": "[UTC +06:30] Rangoon",
+      "utc_offset": "+06:30",
+      "timezone_key": "Asia/Rangoon"
+    },
+    "+07:00": {
+      "name": "[UTC +07:00] Novosibirsk",
+      "utc_offset": "+07:00",
+      "timezone_key": "Asia/Novosibirsk"
+    },
+    "+08:00": {
+      "name": "[UTC +08:00] Ulaanbaatar",
+      "utc_offset": "+08:00",
+      "timezone_key": "Asia/Ulaanbaatar"
+    },
+    "+09:00": {
+      "name": "[UTC +09:00] Yakutsk",
+      "utc_offset": "+09:00",
+      "timezone_key": "Asia/Yakutsk"
+    },
+    "+09:30": {
+      "name": "[UTC +09:30] Darwin",
+      "utc_offset": "+09:30",
+      "timezone_key": "Australia/Darwin"
+    },
+    "+10:00": {
+      "name": "[UTC +10:00] Vladivostok",
+      "utc_offset": "+10:00",
+      "timezone_key": "Asia/Vladivostok"
+    },
+    "+10:30": {
+      "name": "[UTC +10:30] Adelaide",
+      "utc_offset": "+10:30",
+      "timezone_key": "Australia/Adelaide"
+    },
+    "+11:00": {
+      "name": "[UTC +11:00] Srednekolymsk",
+      "utc_offset": "+11:00",
+      "timezone_key": "Asia/Srednekolymsk"
+    },
+    "+12:00": {
+      "name": "[UTC +12:00] Marshall Is.",
+      "utc_offset": "+12:00",
+      "timezone_key": "Pacific/Majuro"
+    },
+    "+13:00": {
+      "name": "[UTC +13:00] Tokelau Is.",
+      "utc_offset": "+13:00",
+      "timezone_key": "Pacific/Fakaofo"
+    },
+    "+13:45": {
+      "name": "[UTC +13:45] Chatham Is.",
+      "utc_offset": "+13:45",
+      "timezone_key": "Pacific/Chatham"
+    }
+  }
